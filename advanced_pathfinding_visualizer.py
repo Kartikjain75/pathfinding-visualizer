@@ -242,7 +242,6 @@ def draw_grid(win, rows, width):
 def draw(win, grid, rows, width, algo_name="None"):
     win.fill(WHITE)
 
-    # Draw all grid cells
     for row in grid:
         for node in row:
             node.draw(win)
