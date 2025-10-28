@@ -2,6 +2,21 @@
   <img src="PATHFINDING_VISUALIZER_BANNER.png" alt="Pathfinding Visualizer Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.8+-0f0f0f.svg?style=for-the-badge&logo=python&logoColor=00ffcc&labelColor=101010" alt="Python Badge">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-0f0f0f.svg?style=for-the-badge&logo=open-source-initiative&logoColor=00ffcc&labelColor=101010" alt="MIT License Badge">
+  </a>
+  <a href="https://www.pygame.org/news">
+    <img src="https://img.shields.io/badge/Library-Pygame-0f0f0f.svg?style=for-the-badge&logo=pygame&logoColor=00ffcc&labelColor=101010" alt="Pygame Badge">
+  </a>
+  <a href="https://github.com/Kartikjain75/pathfinding-visualizer/stargazers">
+    <img src="https://img.shields.io/github/stars/Kartikjain75/pathfinding-visualizer?style=for-the-badge&color=0f0f0f&labelColor=101010&logo=github&logoColor=00ffcc" alt="GitHub Stars">
+  </a>
+</p>
+
 # 🧭 Pathfinding Visualizer
 
 An interactive **Pathfinding Algorithm Visualizer** built in **Python (Pygame)** that helps visualize how different algorithms find the shortest path between two points — just like how **Google Maps** finds routes between locations.
