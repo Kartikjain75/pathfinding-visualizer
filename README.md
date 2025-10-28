@@ -64,24 +64,30 @@ An interactive **Pathfinding Algorithm Visualizer** built in **Python (Pygame)**
 - Step-by-step **Replay Mode**
 
 ---
-🛠️ Contributing
 
-Pull requests are welcome!
-If you have ideas for new algorithms or UI improvements, feel free to fork this repository and submit a PR.
+## 🤝 Contributing
 
-👨‍💻 Author
+Pull requests are welcome!  
+If you have ideas for new algorithms or UI improvements, feel free to **fork this repo** and submit a PR.
 
-Kartik Jain
-📧 jainkartik154@gmail.com
+---
 
-🌐 GitHub – Kartikjain75
+## 👨‍💻 Author
 
-🌟 Acknowledgements
+**Kartik Jain**  
+📧 [jainkartik154@gmail.com](mailto:jainkartik154@gmail.com)  
+🌐 [GitHub – Kartikjain75](https://github.com/Kartikjain75)
 
-Inspired by various visualizers built in Python and JavaScript.
-Built with 💖 using Pygame.
-Special thanks to the open-source community for their amazing learning resources.
+---
 
-🧾 License
+## 🌟 Acknowledgements
 
-This project is open-sourced under the MIT License — feel free to use, modify, and distribute it.
+Inspired by various visualizers built in **Python** and **JavaScript**  
+Built with 💖 using **Pygame**  
+Special thanks to the **open-source community** for their valuable learning resources.
+
+---
+
+## 🧾 License
+
+This project is open-sourced under the **MIT License** — feel free to use, modify, and distribute it.
