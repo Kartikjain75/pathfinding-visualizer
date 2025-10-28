@@ -55,13 +55,6 @@ An interactive **Pathfinding Algorithm Visualizer** built in **Python (Pygame)**
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<Kartikjain75>/pathfinding-visualizer.git
-   cd pathfinding-visualizer
-
 ## 🔧 Future Improvements
 
 - Add **Greedy Best-First Search**
@@ -71,31 +64,24 @@ An interactive **Pathfinding Algorithm Visualizer** built in **Python (Pygame)**
 - Step-by-step **Replay Mode**
 
 ---
-
-🤝 Contributing
+🛠️ Contributing
 
 Pull requests are welcome!
-If you have ideas for new algorithms or UI improvements, feel free to fork this repo and submit a PR.
+If you have ideas for new algorithms or UI improvements, feel free to fork this repository and submit a PR.
 
-🧑‍💻 Author
+👨‍💻 Author
 
 Kartik Jain
 📧 jainkartik154@gmail.com
 
 🌐 GitHub – Kartikjain75
 
-⭐ Acknowledgements
+🌟 Acknowledgements
 
-Inspired by various visualizers built in Python and JavaScript
+Inspired by various visualizers built in Python and JavaScript.
+Built with 💖 using Pygame.
+Special thanks to the open-source community for their amazing learning resources.
 
-Built with 💖 using Pygame
+🧾 License
 
-Special thanks to the open-source community for learning resources
-
-🏁 License
-
-This project is open-sourced under the MIT License — feel free to use and modify it.
-
-💫 Show Some Love
-
-If you like this project, give it a ⭐ on GitHub — it helps others find it too!
+This project is open-sourced under the MIT License — feel free to use, modify, and distribute it.
