@@ -59,5 +59,5 @@ An interactive **Pathfinding Algorithm Visualizer** built in **Python (Pygame)**
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/pathfinding-visualizer.git
+   git clone https://github.com/<Kartikjain75>/pathfinding-visualizer.git
    cd pathfinding-visualizer
