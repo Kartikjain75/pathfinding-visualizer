@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="PATHFINDING_VISUALIZER_BANNER.png" alt="Pathfinding Visualizer Banner" width="100%">
+</p>
 # 🧭 Pathfinding Visualizer
 
 An interactive **Pathfinding Algorithm Visualizer** built in **Python (Pygame)** that helps visualize how different algorithms find the shortest path between two points — just like how **Google Maps** finds routes between locations.
