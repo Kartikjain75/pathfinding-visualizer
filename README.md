@@ -61,3 +61,41 @@ An interactive **Pathfinding Algorithm Visualizer** built in **Python (Pygame)**
    ```bash
    git clone https://github.com/<Kartikjain75>/pathfinding-visualizer.git
    cd pathfinding-visualizer
+
+## 🔧 Future Improvements
+
+- Add **Greedy Best-First Search**
+- Add **Maze Generator**
+- Implement **Dark Mode Theme**
+- Adjustable **Grid Size**
+- Step-by-step **Replay Mode**
+
+---
+
+🤝 Contributing
+
+Pull requests are welcome!
+If you have ideas for new algorithms or UI improvements, feel free to fork this repo and submit a PR.
+
+🧑‍💻 Author
+
+Kartik Jain
+📧 jainkartik154@gmail.com
+
+🌐 GitHub – Kartikjain75
+
+⭐ Acknowledgements
+
+Inspired by various visualizers built in Python and JavaScript
+
+Built with 💖 using Pygame
+
+Special thanks to the open-source community for learning resources
+
+🏁 License
+
+This project is open-sourced under the MIT License — feel free to use and modify it.
+
+💫 Show Some Love
+
+If you like this project, give it a ⭐ on GitHub — it helps others find it too!
